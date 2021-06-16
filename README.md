@@ -1,4 +1,4 @@
-# GluttonousSnake
+# gluttonousSnake
 ## Project setup
 ```
 npm install
