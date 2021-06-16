@@ -16,6 +16,6 @@ npm run build
 
 ### Game play
 ```
-↑ ↓ ← → OR w s d a
+↑ ↓ ← → OR w s a d
 ```
 
